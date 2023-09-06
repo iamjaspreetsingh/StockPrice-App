@@ -1,3 +1,4 @@
 models
 .streamlit
 .venv
+.DS_Store
