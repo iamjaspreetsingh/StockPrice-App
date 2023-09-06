@@ -1,0 +1,11 @@
+streamlit
+yfinance
+matplotlib
+numpy
+pandas
+replicate
+openai
+langchain
+streamlit_autorefresh==0.0.1
+loguru==0.7.0
+timeplus==1.2.1
