@@ -1,12 +1,15 @@
 # StockPrice-App
 
-In this data application an architecture is developed to fetch stock price data from wikipedia or yfinance library. Users can ask data related questions on loaded stock price data for any stock. 
+### Stock price + LLM 
+
+In this data application an architecture is developed to fetch stock price data from wikipedia or yfinance library. Users can ask data related questions on loaded stock price data for any stock (like which stock is performing well today and so on)
 
 Link to code - [Stock price app](https://github.com/iamjaspreetsingh/StockPrice-App/blob/master/app_stockprice.py)
 
 <img width="1440" alt="Screenshot 2023-09-06 at 8 42 56 PM" src="https://github.com/iamjaspreetsingh/StockPrice-App/assets/30948046/e410384c-1a86-4591-adc0-0fbe0f7e3ae6">
 
 
+### Real time data app 
 Timeplus integration alongwith Confluent Kafka allowed to real stream the data into the data application. Tables in data app can be seen getting updated in real-time. 
 
 Link to code - [Real time app](https://github.com/iamjaspreetsingh/StockPrice-App/blob/master/real_time_app.py)
